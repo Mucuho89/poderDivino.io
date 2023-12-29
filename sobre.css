@@ -167,7 +167,7 @@ body {
     margin: 0 auto;
     box-sizing: border-box;
     overflow-x: hidden;
-    background-color:silver;
+     background-image: linear-gradient(to right, rgb(20, 144, 220), rgb(17, 54, 71));
 }
 main {
     margin: 0 auto;
